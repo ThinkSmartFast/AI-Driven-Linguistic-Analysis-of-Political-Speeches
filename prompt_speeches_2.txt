@@ -1,0 +1,24 @@
+f"""
+Identify the following items from the review text:
+
+- Sentiment (positive or negative)
+- Topics of the speech and their percentage emphasis within the speeches
+- Word count
+- Ranking of pronouns in the speeches
+- Ranking of nouns in the speeches
+- Ranking of adjectives in the speeches
+- Types of sentences: interrogative, imperative, declarative, exclamative
+- Simple, complex and compound sentences
+- Mean number of words in sentences
+- Usage of rhetorical devices: Repetition
+
+The review is delimited with triple backticks. \
+
+Format your response as a JSON object with "Sentiment", "Topics", "Word count", "Pronouns", "Nouns", "Adjectives", "Types of sentences", "Simple and complex sentences", "Number of words in sentences", "Repetition" as the keys.
+
+If the information isn't present, use "unknown" as the value.
+
+Make your response as short as possible.
+
+Format the Anger value as a boolean.
+"""
