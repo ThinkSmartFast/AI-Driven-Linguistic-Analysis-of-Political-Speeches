@@ -4,6 +4,8 @@
 
 **GenAI for Humanities. Capstone Project**
 
+**Created by Iuliia Chervonooka**
+
 ## **1.	Introduction**
    
 **Project’s Objective:**
